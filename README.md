@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I want Obi-Wan to jump down and say Hello there everytime I make a hello world code
+
 <!--
 **kukaiN/kukaiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
