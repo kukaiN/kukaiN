@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I want Obi-Wan to jump down and say Hello there everytime I make a hello world code
+- 🔭 I’m currently working on creating deep learning models and creating documents on Overleaf
+- 🌱 I’m currently learning deep learning, GANs, stocastic processes and stocastic calculus, Flask web development, and math in general.
+- 🤔 I’m looking for help with abstract algebra and Quantitative finance from the POV of a programmer
+- 📫 How to reach me: [first name][last name]@gmail.com, *first name is kukai, last name is nakahata* 
+
 
 <!--
 **kukaiN/kukaiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
