@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating deep learning models and creating documents on Overleaf
-- 🌱 I’m currently learning deep learning, GANs, stocastic processes and stocastic calculus, Flask web development, and math in general.
-- 🤔 I’m looking for help with abstract algebra and Quantitative finance from the POV of a programmer
+- 🔭 I’m currently working on creating deep learning models, focus on visual models (diffusion models and detection models) and a bit of LLM
 - 📫 How to reach me: [first name][last name]@gmail.com, *first name is kukai, last name is nakahata* 
 
 
