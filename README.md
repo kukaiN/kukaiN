@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on creating deep learning models, focus on visual models (diffusion models and detection models) and a bit of LLM
-- 📫 How to reach me: [first name][last name]@gmail.com, *first name is kukai, last name is nakahata* 
+
 
 
 <!--
